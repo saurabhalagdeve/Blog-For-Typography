@@ -15,10 +15,11 @@ Whether you're a web developer, designer, or a typography enthusiast, this blog 
 
 So, let's dive into the world of typography and create beautiful, engaging, and user-friendly web experiences together. Happy reading and coding!
 
+#Blog-Post-Link
+[Click Me 👈](https://saurabhalagdeve.github.io/Blog-For-Typography/)
+
 #output
 ![Screenshot (9)](https://github.com/saurabhalagdeve/Blog-For-Typography/assets/127332934/1640ecc0-673c-40e9-95e1-493b325c4bae)
 ![Screenshot (10)](https://github.com/saurabhalagdeve/Blog-For-Typography/assets/127332934/fb56c42f-7d20-4736-9b2a-0edccd050a9d)
 
-#Blog-Post-Link
 
-[Click Me 👈](https://saurabhalagdeve.github.io/Blog-For-Typography/)
