@@ -13,8 +13,6 @@ Font Pairings: Get insights into the art of combining serif and sans-serif fonts
 Title Case Formatting: Find out how to use CSS to convert lowercase text to title case, adding an elegant touch to your content.
 Whether you're a web developer, designer, or a typography enthusiast, this blog is the perfect resource to expand your knowledge and elevate your typography game. Feel free to explore the code and content, and don't hesitate to contribute or share your thoughts with the community.
 
-So, let's dive into the world of typography and create beautiful, engaging, and user-friendly web experiences together. Happy reading and coding!
-
 #Blog-Post-Link
 [Click Here 👈👈👈👈👈👈👈👈👈👈👈](https://saurabhalagdeve.github.io/Blog-For-Typography/)
 
@@ -24,5 +22,9 @@ So, let's dive into the world of typography and create beautiful, engaging, and 
 
 #Blog-Post-Link
 [Click Here 👈👈👈👈👈👈👈👈👈👈👈](https://saurabhalagdeve.github.io/Blog-For-Typography/)
+
+So, let's dive into the world of typography and create beautiful, engaging, and user-friendly web experiences together. Happy reading and coding!
+
+
 
 
