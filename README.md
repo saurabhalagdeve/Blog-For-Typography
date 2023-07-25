@@ -21,6 +21,4 @@ So, let's dive into the world of typography and create beautiful, engaging, and 
 
 #Blog-Post-Link
 
-Click here 👇👇👇
-
-[Link is here](https://saurabhalagdeve.github.io/Blog-For-Typography/)
+[Click Me 👈](https://saurabhalagdeve.github.io/Blog-For-Typography/)
